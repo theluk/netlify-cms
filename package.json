@@ -1,5 +1,6 @@
 {
   "name": "netlify-cms-cz",
+  "version": "2.3.0",
   "scripts": {
     "bootstrap": "yarn && lerna bootstrap",
     "start": "run-s bootstrap develop",
